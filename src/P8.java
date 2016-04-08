@@ -14,7 +14,6 @@ public class P8 extends SkeletonJava {
 //Ridicarea lui x la puterea lui n
  /*       for (int i = 0; i < n; i++) {
             xlan = xlan * x;
-            return;
         }
          System.out.println("Numarul x la puterea n"+xlan);*/
 
